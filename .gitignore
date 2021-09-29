@@ -1,0 +1,6 @@
+
+# Values for different environments
+.env
+env/
+
+.DS_Store
